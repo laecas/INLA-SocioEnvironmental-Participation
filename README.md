@@ -13,9 +13,9 @@ Dataset:
 (Table with the dataset for analysis, anonymized and without geolocation)
 
 # R script
-# 01_functions.R
+# Step 1: summary
 Helper functions for data cleaning, quartile generation, model diagnostics, and plotting.
-# 02_INLA_model_pipeline.R
+# Step 2: INLA model pipeline
 Main analysis script implementing:
 - preparation of predictors
 - hierarchical logistic INLA model
@@ -23,7 +23,7 @@ Main analysis script implementing:
 - forest plot of odds ratios
 - posterior summaries and hyperparameter extraction
 - LOMO cross-validation and bootstrap validation
-# 03_generate_tables_figures.R
+# Step 3: generate tables and additional figure
 Script to export Supplementary Table S1 (fixed effects), Table S2 (hyperparameters),
 and Supplementary Figure S1 (posterior of τ).
 
