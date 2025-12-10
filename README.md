@@ -5,13 +5,14 @@ It provides all scripts and data structures required to reproduce the Bayesian s
 Repository Contents
 
 # Project Files
-PCMA_INLA_Project.Rproj
-R Project file used to organize the workflow and environment.
-# Data
-pcma_dataset_anonymized.rds
-An anonymized and spatially dislocated dataset of rural properties used in the modelling.
-(Municipality codes preserved; coordinates randomized to protect confidentiality.)
-# Scripts
+R script with full data analysis:
+- script_R_analysis_INLA_model.R
+
+Dataset:
+- dataset_ambio_paper.xlsx 
+(Table with the dataset for analysis, anonymized and without geolocation)
+
+# R script
 # 01_functions.R
 Helper functions for data cleaning, quartile generation, model diagnostics, and plotting.
 # 02_INLA_model_pipeline.R
@@ -26,5 +27,3 @@ Main analysis script implementing:
 Script to export Supplementary Table S1 (fixed effects), Table S2 (hyperparameters),
 and Supplementary Figure S1 (posterior of τ).
 
-# Documentation
-Table with the data for analysis, anonymized and without geolocation "dataset_ambio_paper.xlsx" 
