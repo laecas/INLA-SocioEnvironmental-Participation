@@ -1,4 +1,4 @@
-# Socio-Environmental-Predictors-of-Participation-in-Tropical-Working-Landscapes
+# Who Joins Voluntary Conservation? Socio-Environmental Predictors of Participation in Tropical Working Landscapes
 
 This repository accompanies the manuscript “Who Joins Voluntary Conservation? Socio-Environmental Predictors of Participation in Tropical Working Landscapes", a study dedicated to understand the participation of landowners in the Projeto Conexão Mata Atlântica (PCMA)”.
 It provides all scripts and data structures required to reproduce the Bayesian spatial analysis using the INLA framework.
