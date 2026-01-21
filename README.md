@@ -27,3 +27,7 @@ Main analysis script implementing:
 Script to export Supplementary Table S1 (fixed effects), Table S2 (hyperparameters),
 and Supplementary Figure S1 (posterior of τ).
 
+__________________________________________________________
+Financial support
+Fundação de Amparo à Pesquisa do Estado de São Paulo
+Grant numbers 2022/16002-1, 2024/17486-8, 2024/12797-5, 2023/15877-7
