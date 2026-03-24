@@ -1,4 +1,4 @@
-# Who Joins Voluntary Conservation Programs? Socio-Environmental Predictors of Participation in Tropical Working Landscapes
+# Who Joins Voluntary Conservation Programs? SocioEnvironmental Predictors of Participation in Tropical Working Landscapes
 
 This repository accompanies the manuscript “Who Joins Voluntary Conservation? SocioEnvironmental Predictors of Participation in Tropical Working Landscapes", published in AMBIO. This study is dedicated to understand the participation of landowners in the Projeto Conexão Mata Atlântica (PCMA)”. 
 
