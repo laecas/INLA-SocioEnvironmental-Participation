@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript “Who Joins Voluntary Conservation? SocioEnvironmental Predictors of Participation in Tropical Working Landscapes", published in AMBIO. This study is dedicated to understand the participation of landowners in the Projeto Conexão Mata Atlântica (PCMA)”. 
 
-https://doi.org/10.1007/s13280-026-02381-3
+https://doi.org/10.1007/s13280-026-02381-3 
 
 It provides all scripts and data structures required to reproduce the Bayesian spatial analysis using the INLA framework.
 Repository Contents
