@@ -1,5 +1,5 @@
 # =========================================================
-# FINAL FOREST PLOT - TWO COLUMNS WITH EQUAL BLOCK SPACING
+# FINAL FOREST PLOT - TWO COLUMNS WITH EQUAL BLOCK SPACING 
 # =========================================================
 
 library(dplyr)
